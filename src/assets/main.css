@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Saira', sans-serif;
+    
+}
+body{
+    background-color: rgba(250, 250, 250, 1);
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+}
+.container{
+    /* background-color: brown; */
+        width: 100%;
+        max-width: 1400px;
+        margin:0 auto;
+        padding: 0 20px;
+      }
+      /* @media only screen and (max-width:230px) {
+          .container{
+              max-width: 230px;
+          }
+   
+} */
